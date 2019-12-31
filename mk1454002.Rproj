@@ -11,3 +11,6 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+BuildType: Website
+WebsitePath: ~/Dropbox/20 COTIZADOS/0129_MK 1454002 81pax/BUDGET PARA INSERTAR/mk1454002
